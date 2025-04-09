@@ -1,0 +1,105 @@
+Intent,Pattern,Response
+greeting,Hi,Hi there! Welcome to Glam Nails. How can I help you today?
+greeting,Hello,Hello! Karibu Glam Nails. Nikuassist aje?
+greeting,Hey,Hey! Welcome to Glam Nails. How may I assist you?
+greeting,Niaje,Niaje! Karibu Glam Nails. Unahitaji msaada aje?
+greeting,Mambo,Mambo! Karibu Glam Nails. Una swali gani?
+greeting,Vipi,Vipi! Welcome to Glam Nails. How can I serve you?
+greeting,Sasa,Sasa! Karibu Glam Nails. What can I do for you?
+greeting,Hujambo,Hujambo! Karibu Glam Nails. How may I help you today?
+greeting,Habari,Habari! Karibu Glam Nails. What do you need assistance with?
+greeting,Mambo vipi msee?,"Poa! Unahitaji huduma gani?"
+greeting,Sasa unajua niko ready,"Karibu! Tuko tayari kukuhudumia"
+greeting,Aje,Aje! Welcome to Glam Nails. How can I help?
+appointment,How do I book an appointment?,"To book an appointment, we require a 50% deposit paid via M-PESA or card. Visit our website https://luxenails.co.ke or call +254 711 187 367 to book "
+appointment,Ninawezaje kuweka appointment?,"Ili kuweka appointment, tunahitaji deposit ya 50% kupitia M-PESA au card."
+appointment,How can I secure a slot?,You can secure a slot by paying a non-refundable 50% deposit.
+appointment,Nawezaje ku-book appointment?,Unaweza ku-book appointment kwa kulipa amana ya 50%.
+appointment,"Nataka kuweka slot, how do I do that?",Please pay a 50% deposit to reserve your slot.
+appointment,How do I reserve an appointment?,Reservation requires a 50% deposit via M-PESA or card.
+appointment,Ninawezaje ku-reserve miadi?,Tafadhali lipa deposit ya 50% ili u-reserve miadi yako.
+appointment,"Book appointment for me, please.",Book your appointment by paying a non-refundable 50% deposit.
+appointment,Nipe maelekezo ya booking.,Tunaweza kuweka slot yako ikiwa umelipa deposit ya 50%.
+appointment,Naweza aje ku-book?,Ensure your booking by paying the required 50% deposit.
+appointment,Nataka book appointment,"Tafadhali lipa deposit ya 50% kupitia M-PESA"
+appointment,I need kuweka miadi,"Book your appointment kwa kulipa 50% deposit"
+cancellation,Can I cancel my appointment?,"To cancel, please notify us at least 12 hours before your appointment."
+cancellation,Ninaweza kughairi appointment yangu?,"Ili kughairi appointment, tafadhali tuarifu angalau saa 12 kabla ya miadi."
+cancellation,How do I cancel my booking?,Please cancel at least 12 hours in advance.
+cancellation,Naweza aje cancel miadi yangu?,Tafadhali cancel miadi yako angalau saa 12 kabla ya muda uliopangwa.
+cancellation,Can I change or cancel my slot?,You can cancel or change your slot if you notify us 12 hours early.
+cancellation,"Je, ninaweza kubadilisha booking?","Kufanyia cancel au change, tunahitaji taarifa angalau 12 hours mapema."
+cancellation,I need to cancel my appointment.,Cancellation is allowed with a 12-hour prior notice.
+cancellation,"Nataka cancel appointment yangu, what do I do?",Tafadhali fanya cancellation angalau masaa 12 kabla ya miadi.
+cancellation,How early must I cancel my booking?,Ensure you cancel at least 12 hours in advance.
+cancellation,Ninawezaje kufuta slot yangu?,You must cancel your booking 12 hours before the appointment time.
+pricing,How much are your services?,Please check our pricing details on our website at [https://luxenails.co.ke].
+pricing,Huduma zenu ni bei gani?,Tafadhali angalia bei zetu kwenye tovuti yetu: [https://luxenails.co.ke].
+pricing,What do you charge for nails?,Our services start at competitive prices; check our price list at [https://luxenails.co.ke].
+pricing,Mna charge aje kwa nails?,"Huduma zetu huanzia bei nzuri, angalia orodha ya bei hapa: [https://luxenails.co.ke]."
+pricing,How expensive are your treatments?,Visit our website for a full list of prices and packages.
+pricing,Bei ya services zenu iko vipi?,Unaweza kupata bei na packages zetu kwenye website yetu: [https://luxenails.co.ke].
+pricing,Can you share your price list?,Our pricing is available online; please refer to our price list at [https://luxenails.co.ke].
+pricing,Unaweza kunipa bei ya huduma?,"For service costs, kindly visit our pricing page: [https://luxenails.co.ke]."
+pricing,What is the cost of a manicure?,Check our website for the cost of a manicure and other services: [https://luxenails.co.ke].
+pricing,Manicure inagharimu kiasi gani?,Prices are detailed on our site; please see [https://luxenails.co.ke] for more information.
+hours,What are your opening hours?,We are open daily from 8 AM to 7 PM.
+hours,Mnafungua saa ngapi?,Tuna fungua kila siku kuanzia saa 8 asubuhi hadi saa 7 jioni.
+hours,When do you open?,Our operating hours are 8 AM to 7 PM every day.
+hours,Unafungua lini?,Tuna fungua saa 8 AM hadi 7 PM kila siku.
+hours,What time do you start work?,We operate daily between 8 in the morning and 7 in the evening.
+hours,Saa ngapi mnafungu?,Huduma zetu zipo wazi kutoka saa 8 hadi 7 kila siku.
+hours,Can you tell me your operating hours?,Our doors are open from 8 AM to 7 PM daily.
+hours,Ni saa ngapi mnafungu?,Tuna kazi kila siku kutoka 8 asubuhi hadi 7 jioni.
+hours,When are you available?,"Open daily, 8 AM to 7 PM."
+hours,Unafunguwa saa ngapi kila siku?,Fungua na muda: 8 AM hadi 7 PM kila siku.
+location,Where is your salon located?,We are located in CBD and Lavington.
+location,Wapi salon yenu?,Tupo CBD na Lavington.
+location,What is your address?,Our salon is in the heart of CBD with another branch in Lavington.
+location,Mna anuani gani?,Salon yetu iko katika CBD pamoja na tawi la Lavington.
+location,Where can I find you?,Find us in CBD and Lavington.
+location,Ninawezaje kupata salon yenu?,Unaweza kutuona katika CBD na Lavington.
+location,Which areas do you serve?,We serve the CBD area and Lavington.
+location,Mnapatikana wapi?,Huduma zetu zinapatikana CBD na Lavington.
+location,What are your branch locations?,Our branches are in CBD and Lavington.
+location,Branches zenu ziko wapi?,Tuna branches katika CBD na Lavington.
+contact,How can I contact you?,You can call or WhatsApp us at +254 711 187 367.
+contact,Ninawezaje kuwasiliana nanyi?,Unaweza kupiga simu au WhatsApp +254 711 187 367.
+contact,What is your phone number?,Reach us via phone or WhatsApp at +254 711 187 367.
+contact,Nambari yenu ya simu ni ipi?,Tawasiliana nasi kupitia simu au WhatsApp: +254 711 187 367.
+contact,Can I get your WhatsApp contact?,Call or WhatsApp us on +254 711 187 367 for inquiries.
+contact,Unaweza kunipa contact ya WhatsApp?,Tupigie simu au WhatsApp kwa +254 711 187 367.
+contact,How do I reach you?,Our contact is +254 711 187 367 via call or WhatsApp.
+contact,Ninawezaje kupata huduma zenu?,Wasiliana nasi kupitia simu/WhatsApp: +254 711 187 367.
+contact,What are your contact details?,"For any queries, call or WhatsApp +254 711 187 367."
+contact,Maelezo ya mawasiliano yenu ni yapi?,Please contact us on +254 711 187 367 (call/WhatsApp).
+services,What services do you offer?,"We offer manicure, pedicure, nail art, and spa treatments."
+services,Ni huduma gani mnapotoa?,"Tunatoa manicure, pedicure, nail art, pamoja na matibabu ya spa."
+services,Tell me about your nail services.,"Our services include nail care, art, and spa treatments."
+services,Nipe maelezo ya huduma za kucha.,"Huduma zetu ni pamoja na kucha, nail art, na matibabu ya spa."
+services,What treatments are available?,We provide comprehensive nail care and spa services.
+services,Matibabu gani mnapofanya?,Tuna huduma kamili za kucha na spa.
+services,Do you offer nail art?,"Yes, we offer creative nail art along with other treatments."
+services,Mnapotoa nail art?,"Ndio, tuna nail art pamoja na huduma nyingine za spa."
+services,What about pedicures?,"Our offerings include manicure, pedicure, and more."
+services,Huduma za pedicure zipo?,"Tunatoa manicure, pedicure, na huduma nyingine."
+casual_chat,Got any nail care tips?,We got you! Ask any nail care advice you need.
+casual_chat,Una tips za kucha?,Tuko hapa! Swali lako la tips za kucha ni welcome.
+casual_chat,How can I make my nails look great?,Keep your nails healthy with regular care and treatments.
+casual_chat,Nifanyie tips za nails zangu?,Fanya care ya kucha zako mara kwa mara kwa matibabu bora.
+casual_chat,Any advice for fresh nails?,Fresh nails need care; we offer tips when you visit.
+casual_chat,Naweza kupata advice ya kucha?,Nails nzuri zinahitaji uangalizi. Twasiliana na tips za kuvifanyia care.
+casual_chat,What’s the trend in nail art?,Check out the latest trends in nail art with us.
+casual_chat,Trend ya nail art iko aje?,Angalia trends za nail art mpya na sisi.
+casual_chat,How do I keep my nails strong?,Regular maintenance is key to strong nails.
+casual_chat,Ninawezaje kuimarisha kucha zangu?,Uangalizi wa mara kwa mara ni muhimu kwa kucha imara.
+policies,What is your dress code policy?,"We encourage casual wear, but please be neat and tidy."
+policies,Sera yenu ya mavazi ni ipi?,"Tunashauri kuvaa kawaida, lakini tafadhali kuwa safi na mlipikifu."
+policies,Do you have a cellphone usage policy?,Phones should be kept on silent mode to maintain a calm environment.
+policies,Mna policy ya kutumia simu?,Simu ziko silent mode ili kuweka mazingira ya utulivu.
+policies,What are your noise regulations?,Please observe our noise regulations for a relaxing experience.
+policies,Sera yenu ya kelele iko aje?,Tafadhali zingatia sera yetu ya kelele kwa ajili ya utulivu.
+policies,Tell me about your spa policies.,Our spa policies ensure a pleasant experience for everyone.
+policies,Ni sera gani mnapofuata kwenye spa?,Sera zetu za spa zinalenga utulivu na starehe ya wote.
+policies,What rules should I follow during my visit?,"Follow our simple rules: be neat, keep phones silent, and respect others."
+policies,Ni kanuni gani napaswa kufuata?,"Fuata kanuni zetu: usiwe na kelele, simu silent, na uwe mwembamba."
